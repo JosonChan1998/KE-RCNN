@@ -61,9 +61,10 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 ./tools/dist_train.sh configs/ke_rcnn/ke_rc
 ## Citation
 ```
 @article{wang2022ke,
-  title={KE-RCNN: unifying knowledge based reasoning into part-level attribute parsing},
+  title={KE-RCNN: Unifying Knowledge-Based Reasoning Into Part-Level Attribute Parsing},
   author={Wang, Xuanhan and Song, Jingkuan and Chen, Xiaojia and Cheng, Lechao and Gao, Lianli and Shen, Heng Tao},
-  journal={arXiv preprint arXiv:2206.10146},
-  year={2022}
+  journal={IEEE Transactions on Cybernetics},
+  year={2022},
+  publisher={IEEE}
 }
 ```
