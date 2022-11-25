@@ -13,7 +13,7 @@ Official implementation of [**KE-RCNN**](https://arxiv.org/pdf/2206.10146.pdf) f
 You need to download the datasets and annotations follwing this repo's formate
 
 - [FashionPedia](https://github.com/cvdfoundation/fashionpedia)
-- [knowledge_matrix](https://drive.google.com/file/d/1m1ycDqK6wvdvlLwz7jyyAuIGjyhdggBe/view?usp=sharing)
+- [knowledge_matrix](https://drive.google.com/file/d/1wqLyyFPKBq07cieT9rEAB90KnG6XDk5u/view?usp=sharing)
 
 Make sure to put the files as the following structure:
 
